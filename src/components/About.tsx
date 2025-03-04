@@ -37,7 +37,7 @@ export default function About() {
 
             <div className="flex flex-wrap gap-4">
               <a
-                href="https://github.com/yourusername/passguard"
+                href="https://github.com/yuangtong/passguard"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 bg-neutral-dark text-white px-6 py-3 rounded-lg hover:bg-opacity-90 transition-colors touch-manipulation min-h-[44px]"
@@ -46,7 +46,7 @@ export default function About() {
                 <span>View on GitHub</span>
               </a>
               <a
-                href="https://github.com/yourusername/passguard/issues/new"
+                href="https://github.com/yuangtong/passguard/issues/new"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center space-x-2 bg-primary-red text-white px-6 py-3 rounded-lg hover:bg-opacity-90 transition-colors touch-manipulation min-h-[44px]"
